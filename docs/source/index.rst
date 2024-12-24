@@ -10,6 +10,26 @@ Testing
 
 .. toctree::
    :maxdepth: -1
-   :caption: Getting Started
+   :caption: General Information
 
-   getting-started
+   meeting-schedule
+   group-members
+
+.. toctree::
+   :maxdepth: -1
+   :caption: Local Computing Resources
+
+   local-computing
+
+.. toctree::
+   :maxdepth: -1
+   :caption: Workstations
+
+.. toctree::
+   :maxdepth: -1
+   :caption: Helium and Neon
+
+   workstations
+   compute
+   hpc
+   printers
